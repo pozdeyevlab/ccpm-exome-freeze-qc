@@ -1,5 +1,5 @@
 # ccpm-exome-freeze-qc
-The two jupyter notebooks in this repo, contain the code used to qc and merge the CCPM exome freeze3 files. 
+The two jupyter notebooks in this repo, contain the code used to qc and merge the CCPM exome freeze3 raw vcfs. 
 
 ## 01_freeze3_exome_QC.ipynb
 * converts VCF chunks to chromosome MTs (matrix tables)
